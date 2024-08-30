@@ -1,8 +1,6 @@
-# Airplane_Cabin_Announcement_Dataset
+# Airplane Cabin Announcement Dataset
 
-THIS IS A DATASET CONSISTING OF IN FLIGHT CABIN ANNOUNCEMENTS CREATED BY USING AN OPEN SOURCE SOFTWARE.
+This is a speech dataset created for in-flight cabin announcements using different accents including USA English (Male and Female), UK Englidh (Female and Male) etc. the dataset comprises of audio files in .wav format and the corresponding transcripts with it.
 
-THE DATASET COMPRISES OF AUDIO FILES IN .wav FORMAT AND THE CORRESPONDING TRANSCRIPTS IN EACH FOLDER. 
-
-THE AUDIO FILES ARE CREATED USING BOTH MALE AND FEMALE VOICES HAVING US ACCENT.
+Kindly cite this work, if you are using the dataset for academic purposes: Sasindran, Z., 2024. Automatic Speech Recognition Solutions For Resource Constrained Devices (Doctoral dissertation).
 
